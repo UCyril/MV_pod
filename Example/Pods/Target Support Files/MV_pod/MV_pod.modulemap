@@ -1,0 +1,6 @@
+framework module MV_pod {
+  umbrella header "MV_pod-umbrella.h"
+
+  export *
+  module * { export * }
+}
